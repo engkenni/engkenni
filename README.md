@@ -1,4 +1,4 @@
-### Hi there Kenni 👋
+### Hi there I am Kenni 👋
 
 - 🔭 I’m currently working on Medical Images Classification Projects.
 - 🌱 I’m currently learning Computer Vision, Deep Learning.
