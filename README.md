@@ -6,4 +6,3 @@
 - ✔️ Ask me about Data Science, or any tech related stuff.
 - 💛 How to reach me: Twitter: @eng_kenni
 - 😄 Pronouns: She/Her
-- 
