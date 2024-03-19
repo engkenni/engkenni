@@ -1,9 +1,9 @@
 ## Hi there I am Kenni 👋
 
-### 🐬 I’m currently working on Computer Vision, Deep Learning Projects.
-### 😃 I’m looking to collaborate on Presentations, Podcasts, Conferences. 
-### ✔️ Ask me about Data Science, or any tech related stuff.
-### 😄 Pronouns: She/Her
+##### 🐬 I’m currently working on Computer Vision, Deep Learning Projects.
+##### 😃 I’m looking to collaborate on Presentations, Podcasts, Conferences. 
+##### ✔️ Ask me about Data Science, or any tech related stuff.
+##### 😄 Pronouns: She/Her
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kennikonate) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kennikonate) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eng_kenni) 
